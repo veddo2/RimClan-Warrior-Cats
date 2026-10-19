@@ -3,7 +3,7 @@
     <defName>WC_NamerCat</defName>
     <rulePack>
       <rulesStrings>
-        <li>wc_namercat->^wcprefix^wcsuffix</li>
+        <li>r_name->^wcprefix^wcsuffix</li>
         <li>wcprefix->Fire</li>
         <li>wcprefix->Bramble</li>
         <li>wcprefix->Blue</li>
