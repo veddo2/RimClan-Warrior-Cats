@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Defs>
-  <!-- defName = texture filename WITHOUT the _north/_south/_east suffix -->
-  <BodyTypeDef>
-    <defName>Cat</defName>
-  </BodyTypeDef>
