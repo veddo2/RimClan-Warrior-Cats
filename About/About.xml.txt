@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>RimClans: Warrior Cats</name>
+  <author>Veddo</author>
+  <packageId>yourname.warriorcats</packageId>
+  <supportedVersions><li>1.6</li></supportedVersions>
+  <description>Play as a Clan of warrior cats. Weave bramble walls, raise dens, keep the warrior code.</description>
+  <modDependencies>
+    <li>
+      <packageId>erdelf.HumanoidAlienRaces</packageId>
+      <displayName>Humanoid Alien Races</displayName>
+    </li>
+  </modDependencies>
+  <loadAfter><li>erdelf.HumanoidAlienRaces</li></loadAfter>
+</ModMetaData>

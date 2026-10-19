@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <PawnKindDef ParentName="BasePlayerPawnKind">
+    <defName>WC_ClanCat</defName>
+    <label>clan cat</label>
+    <race>WC_Cat</race>
+    <defaultFactionType>PlayerColony</defaultFactionType>
+    <initialResistanceRange>13~21</initialResistanceRange>
+    <nameMaker>WC_NamerCat</nameMaker>
+  </PawnKindDef>
+</Defs>
